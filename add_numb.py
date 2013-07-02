@@ -3,7 +3,7 @@
 #    print ("Hi, I'm just adding two numbers here.")
 #    return a+b
 
-from adding import add_two, add_three
+#from adding import add_two, add_three
 
 def main():
     print ("2+2=", add_two(2,2))
